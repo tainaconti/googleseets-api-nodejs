@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "macro-key-326112",
+  "private_key_id": "976d51f2ab50c32e99af0ca07cfda77ad13ff057",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDayjM94rqv7CAI\nh7r3vGYATMoUZ1b0kY4Pkqqg47WbTGV9nH7tvJ6+uS1fWEfS0yX0zDdzN6s1kgIp\noUcNkhDgCxh0vUpaMrdgw+dqCr2KW70SPR7yylYHmqsywyHvhnIpS0l1npHMGZCw\n+jyu/F+Cn6PYe3iv5FUeC0hJWsFYF2fZhzd1p/CeGaDjmfQNU5OOHxkXhDc+ck3Z\ny1EMa7Zc3AkF//k/MbkdZHviCzxxoDv81tXPNDoXxlUhTbzqdkvbt/9IfEYHmvbT\nTB9ZvfXZ6Vyefit91LTmt6mSG+zvXNIbqNNDDnmasj/GMdrZFvIV8Ngx2PvvW4C3\nsFbEo3SRAgMBAAECggEARysau/iyjWMbkGrGUKuB6nsQCM8MpAVs1nf49NjdTCTv\npopvZ1nBsXx+29LVmiiA4j5Dk0D6ejSCa5RAjpOC1b4GOIMSWoDA0cMn1YCk4wqw\nV+x10rgqf9K5+Ysr0MRFAlWxEYeBGYj/XfIoJyuEzfKr01FmkqCNZ3Z4DxRsbACm\n6uaI9YVW1yiegsc0UzPsR5KNfiYvYQFLHL87tNlSqyiOwyAYz/m2CR0TTAeZM4e4\n+W1wIXNHbX+6cztH3mK2HHLzpUUP87lnvLI2UmnkgqSmeOUouImasUwFQUfQ82cH\nnq8gJ6PJwKUMg2VO4zICqw8qCdB5WtTyqX3MJDKrOQKBgQD4dK3PlS1gnfViF2ff\nBI0L2ofLGb4JbURfZ1W0N2SOsbbr59zRQbLjVQTSMFP2Juux/3N02zT0uJQlOpFW\nIo1HE3ajfFzsUlVjk2UVfaAu1y3h7HlBrZkt/MIHo+XzJ4zb8KTOTYtYyUI5ANCs\nSHkLrveP/ppm6HzryhZE61uL2wKBgQDhbutGu30UeUqIZM4DVCOB0seK5AHqYuh4\n26zGW2RlUKg/uvvXOCOqWX8lAnOB0SqyqUZY32W9+iph0lk4k2Ckh/jr387gv2ov\nGK7Tbd/fsaj/IczKI2aAzX2QSUV88rs/Fn76SULXXj2+kd1fK3glgbsi3Ze+g1LC\nYzV3P+vDAwKBgHwUAQ1O6ad7myUOnVAR/MJzsycpxu78Q44FlBZ5J13fwINVesCC\nN+0x80No4TVnwINXGHi+VFb2qv1gn15NyRI61R/WJq3afExLOssdvtZFneNa7j9v\ni7UcqmWYY2koUj8wkY15ymJfuBOxpYS0eMbt7TJbKw7Dgkda1/45L7HLAoGAUcHA\nYi6s9jfm6ABnFp31Iqgm5iA68Z5dYTeKOYX7qyLNYg+WNj+N78H1cp6o9XO+YH0z\nnhem9nc7165J3VLVwdXuWN0aUjgZcmspPFSk1KPB/oVrmAOusRfVafao1N/TONYX\nxv262BC9o9eSyWkicbfS/poO5nEKGqWQRmdQQbECgYEAib/JaNxrEWkGoxGHHq+m\nNCNUehEbn6/KKr0/NTHUZsnJXLikWoefQc+ZrUd8W9ATViElQPMj74LIQPOJ+h1k\nx/1rqBGHD2qmlfeQ6fgiekp2fDIpY7+u62+NgeS/tAokjbTUwxwRbgCq1kmay2Z4\nc5SteTbe+GX8LpeRJXCb84M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tain-conti@macro-key-326112.iam.gserviceaccount.com",
+  "client_id": "105611133769162860646",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tain-conti%40macro-key-326112.iam.gserviceaccount.com"
+}
